@@ -1,0 +1,40 @@
+[12-Oct-2019 10:38:17 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u37764930_root'@'localhost' (using password: NO) in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php:9
+Stack trace:
+#0 /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php(9): PDO->__construct('mysql:host=loca...', 'u37764930_root', '')
+#1 {main}
+  thrown in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 9
+[13-Oct-2019 23:55:48 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 3
+[13-Oct-2019 23:55:48 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 7
+[13-Oct-2019 23:55:48 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u37764930_root'@'localhost' (using password: NO) in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php:9
+Stack trace:
+#0 /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php(9): PDO->__construct('mysql:host=loca...', 'u37764930_root', '')
+#1 {main}
+  thrown in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 9
+[15-Oct-2019 20:10:59 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 3
+[15-Oct-2019 20:10:59 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 7
+[15-Oct-2019 20:10:59 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u37764930_root'@'localhost' (using password: NO) in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php:9
+Stack trace:
+#0 /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php(9): PDO->__construct('mysql:host=loca...', 'u37764930_root', '')
+#1 {main}
+  thrown in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 9
+[15-Oct-2019 22:33:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 3
+[15-Oct-2019 22:33:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 7
+[15-Oct-2019 22:33:30 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u37764930_root'@'localhost' (using password: NO) in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php:9
+Stack trace:
+#0 /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php(9): PDO->__construct('mysql:host=loca...', 'u37764930_root', '')
+#1 {main}
+  thrown in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 9
+[15-Oct-2019 22:45:38 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 3
+[15-Oct-2019 22:45:38 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 7
+[15-Oct-2019 22:45:38 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u37764930_root'@'localhost' (using password: NO) in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php:9
+Stack trace:
+#0 /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php(9): PDO->__construct('mysql:host=loca...', 'u37764930_root', '')
+#1 {main}
+  thrown in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 9
+[15-Oct-2019 22:56:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 3
+[15-Oct-2019 22:56:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 7
+[15-Oct-2019 22:56:35 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u37764930_root'@'localhost' (using password: NO) in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php:9
+Stack trace:
+#0 /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php(9): PDO->__construct('mysql:host=loca...', 'u37764930_root', '')
+#1 {main}
+  thrown in /home/u377646930/domains/everyjuansafe.tech/public_html/admin/index.php on line 9
